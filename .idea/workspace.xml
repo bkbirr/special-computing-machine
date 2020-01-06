@@ -1,11 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ccb2bbf2-2ac6-4dab-84d7-44bc2f0afc31" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/homepage/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homepage/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homepage/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homepage/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homepage/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homepage/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homepage/templates/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homepage/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homepage/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homepage/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/migrations/0002_auto_20191216_1629.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/migrations/0003_auto_20191216_1735.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/static/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/static/projects/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/static/projects/img/three.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/static/projects/img/two.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/templates/projects/all_projects.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/templates/projects/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/templates/projects/detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resume/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resume/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resume/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resume/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resume/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resume/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resume/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PortfolioV4/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PortfolioV4/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PortfolioV4/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PortfolioV4/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PortfolioV4/wsgi.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1W20mMXPtMQon18c99wqAsThVny" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="PortfolioV4" type="Python.DjangoServer" factoryName="Django server">
@@ -31,5 +95,34 @@
       <option name="customRunCommand" value="" />
       <method v="2" />
     </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ccb2bbf2-2ac6-4dab-84d7-44bc2f0afc31" name="Default Changelist" comment="" />
+      <created>1578332539270</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578332539270</updated>
+      <workItem from="1578332566067" duration="648000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
 </project>
