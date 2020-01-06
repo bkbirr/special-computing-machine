@@ -1,49 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ccb2bbf2-2ac6-4dab-84d7-44bc2f0afc31" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/homepage/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homepage/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homepage/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homepage/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homepage/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homepage/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homepage/templates/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homepage/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homepage/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homepage/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/migrations/0002_auto_20191216_1629.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/migrations/0003_auto_20191216_1735.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/static/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/static/projects/img/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/static/projects/img/three.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/static/projects/img/two.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/templates/projects/all_projects.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/templates/projects/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/templates/projects/detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resume/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resume/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resume/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resume/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resume/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resume/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resume/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortfolioV4/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortfolioV4/asgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortfolioV4/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortfolioV4/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortfolioV4/wsgi.py" beforeDir="false" />
-    </list>
+    <list default="true" id="ccb2bbf2-2ac6-4dab-84d7-44bc2f0afc31" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -118,7 +76,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578332539270</updated>
-      <workItem from="1578332566067" duration="648000" />
+      <workItem from="1578332566067" duration="1114000" />
     </task>
     <servers />
   </component>
